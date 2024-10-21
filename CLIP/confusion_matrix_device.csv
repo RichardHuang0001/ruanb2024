@@ -1,0 +1,8 @@
+,trigger,grip,joystick (click),joystick,A button,touch (reachable),touch (unreachable)
+trigger,0,0,0,0,0,0,4
+grip,139,203,251,111,117,331,640
+joystick (click),0,1,0,0,0,2,0
+joystick,1,0,2,1,0,4,3
+A button,49,62,79,40,37,144,261
+touch (reachable),6,4,18,2,6,15,28
+touch (unreachable),170,128,216,94,130,421,729
